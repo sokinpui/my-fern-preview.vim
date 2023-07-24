@@ -153,7 +153,7 @@ function! s:open_preview(path) abort
   call s:win.open({
   \   'row': top,
   \   'col': 40,
-  \   'width': 80,
+  \   'width': 85,
   \   'height': height,
   \   'topline': 1,
   \   'border': v:true,
